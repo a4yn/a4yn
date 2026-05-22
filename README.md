@@ -27,7 +27,7 @@
 - ⚔️ Doing **DSA in C++**
 - 🎬 I edit videos when I'm not coding
 - 🎮 Gamer at heart
-- ⚡ Just getting started — building my lore!
+- ⚡ Just getting started 
 
 ---
 
