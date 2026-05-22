@@ -25,7 +25,6 @@
 - 🏋️ Building my lore on Full Stack and AI engineering
 - 🐍 Currently learning **NumPy & Pandas**
 - ⚔️ Doing **DSA in C++**
-- 🎨 I sculpt 3D worlds & build CG Visuals when not coding
 - 🎬 I edit videos when I'm not coding
 - 🎮 Gamer at heart
 - ⚡ Just getting started — building my lore!
