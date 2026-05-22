@@ -9,8 +9,6 @@
 
 ---
 
-<!-- Upload banner.svg to your profile repo root (same folder as README.md) -->
-![Spider-Man Banner](banner.svg)
 
 <div align="center">
 
@@ -18,8 +16,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1200&color=FF1A1A&center=true&vCenter=true&width=680&lines=Hey!+I'm+Ayan;Student+by+day%2C+Coder+by+night;1st+Year+%7C+Still+learning+%7C+Never+stopping;Python+%7C+C%2FC%2B%2B+%7C+DSA+%7C+Web+Dev;Into+the+Code-Verse...+one+bug+at+a+time" alt="Typing SVG" />
 
 </div>
-
-*Building stuff tech people find interesting*
 
 ---
 
