@@ -21,7 +21,6 @@
 
 ## 🚀 About Me
 
-- 🎓 First Year CS Student at **Techno Main Salt Lake**
 - 🏋️ Building my lore on Full Stack and AI engineering
 - 🐍 Currently learning **NumPy & Pandas**
 - ⚔️ Doing **DSA in C++**
